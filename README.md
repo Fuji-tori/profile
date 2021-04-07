@@ -1,3 +1,3 @@
 # README
 
-<!-- not README now -->
+<!-- no README now -->
