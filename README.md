@@ -1,5 +1,5 @@
 # README
-<!-- No [README.md] now -->
+<!-- [README.md] NO code -->
 
 <!-- 
 ## テーブル
