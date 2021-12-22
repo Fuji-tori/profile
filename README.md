@@ -2,7 +2,7 @@
 <!-- [README.md] NO code -->
 
 <!-- 
-## テーブルテンプレート
+## ↓ テーブルテンプレート
 
 テーブル
 |Column |Type |Options |
