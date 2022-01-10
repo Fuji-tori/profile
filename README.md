@@ -12,6 +12,10 @@
 |nickname    |string|null: false|
 |email       |string|null: false, unique: true|
 
-### Association 
+### Association
+
+例
+- has_many :
+- belongs_to :
 
 -->
