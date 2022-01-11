@@ -15,7 +15,7 @@
 ### Association
 
 例
-- has_many :
-- belongs_to :
+- has_many :books
+- belongs_to :user
 
 -->
