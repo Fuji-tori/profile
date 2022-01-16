@@ -4,20 +4,23 @@
 <!-- 
 ## ↓ テーブルテンプレート
 
-テーブル
+##テーブル
 |Column |Type |Options |
 ||||
 
 ### Association
-
 -->
+
 
 <!-- 
 ※例※※
+## 〇〇テーブル
 |Column   |Type  |Options    |
+|---------|------|-----------|
 |nickname |string|null: false|
 |email    |string|null: false, unique: true|
 
+### Association
 - has_many :books
 - belongs_to :user
 ※※※※※
