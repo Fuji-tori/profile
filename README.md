@@ -16,7 +16,7 @@
 
 <!-- 
 ※例※※
-## 〇〇テーブル
+## 〇〇sテーブル ←usersなどの複数形
 |Column   |Type  |Options    |
 |---------|------|-----------|
 |nickname |string|null: false|
