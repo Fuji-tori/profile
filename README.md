@@ -4,7 +4,7 @@
 <!-- 
 ## テーブルテンプレート
 
-##テーブル
+## テーブル
 |Column |Type |Options |
 |-------|-----|--------|
 ||||
@@ -15,8 +15,8 @@
 
 
 <!-- 
-※例※※
-## 〇〇sテーブル ←usersなどの複数形
+-例-
+## 〇〇sテーブル
 |Column   |Type  |Options    |
 |---------|------|-----------|
 |nickname |string|null: false|
@@ -25,5 +25,4 @@
 ### Association
 - has_many :books
 - belongs_to :user
-※※※※※
  -->
