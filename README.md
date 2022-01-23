@@ -15,7 +15,7 @@
 
 
 <!-- 
--例-
+-----例-----
 ## 〇〇sテーブル
 |Column   |Type  |Options    |
 |---------|------|-----------|
@@ -25,4 +25,5 @@
 ### Association
 - has_many :books
 - belongs_to :user
+-----例-----
  -->
