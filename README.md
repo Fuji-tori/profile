@@ -2,7 +2,7 @@
 <!-- [README.md] NO code -->
 
 <!-- 
-## テーブルテンプレート
+## テンプレート
 
 ## テーブル
 |Column |Type |Options |
@@ -23,7 +23,7 @@
 |email    |string|null: false, unique: true|
 
 ### Association
-- has_many :books
-- belongs_to :user
+- has_many :〇〇s
+- belongs_to :〇〇
 -----例-----
  -->
