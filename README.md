@@ -17,10 +17,11 @@
 <!-- 
 -----例-----
 ## 〇〇sテーブル
-|Column   |Type  |Options    |
-|---------|------|-----------|
-|nickname |string|null: false|
-|email    |string|null: false, unique: true|
+|Column   |Type      |Options    |
+|---------|----------|-----------|
+|nickname |string    |null: false|
+|email    |string    |null: false, unique: true|
+          |references|foreign_key: true, null: false|
 
 ### Association
 - has_many :〇〇s
