@@ -21,7 +21,7 @@
 |---------|----------|-----------|
 |nickname |string    |null: false|
 |email    |string    |null: false, unique: true|
-          |references|foreign_key: true, null: false|
+|         |references|foreign_key: true, null: false|
 
 ### Association
 - has_many :〇〇s
