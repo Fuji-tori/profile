@@ -24,7 +24,7 @@
 |         |references|foreign_key: true, null: false|
 
 ### Association
-- has_many :〇〇s
-- belongs_to :〇〇
+- has_many :(テーブル名s)
+- belongs_to :(テーブル名)
 -----例-----
  -->
