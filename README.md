@@ -4,7 +4,7 @@
 <!-- 
 ## テンプレート
 
-## テーブル
+## sテーブル
 |Column |Type |Options |
 |-------|-----|--------|
 | | | |
@@ -21,7 +21,8 @@
 |---------|----------|-----------|
 |nickname |string    |null: false|
 |email    |string    |null: false, unique: true|
-|         |references|foreign_key: true, null: false|
+
+|user     |references|foreign_key: true, null: false|
 
 ### Association
 - has_many :(複数テーブル名)
