@@ -23,6 +23,7 @@
 |Column |Type |Options |
 |-------|-----|--------|
 | | | |
+| | | |
 
 ### Association
 -  :
