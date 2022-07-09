@@ -8,7 +8,6 @@
 |---------|----------|-----------|
 |nickname |string    |null: false|
 |email    |string    |null: false, unique: true|
-
 |user     |references|foreign_key: true, null: false|
 
 ### Association
