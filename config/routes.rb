@@ -1,5 +1,3 @@
 Rails.application.routes.draw do
-
-# No code
-
+# [No code]
 end
