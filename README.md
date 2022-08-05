@@ -11,8 +11,8 @@
 |user     |references|foreign_key: true, null: false|
 
 ### Association
-- has_many :(複数テーブル名)
-- belongs_to :(単数テーブル名)
+- has_many :〇〇s(複数テーブル名)
+- belongs_to :〇〇(単数テーブル名)
 --------------------------------------------------
 -->
 
