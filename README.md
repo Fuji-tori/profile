@@ -1,7 +1,7 @@
 # README
 <!-- NO code -->
 
-<!-- 例//本記入後削除//
+<!-- 例//本記入後例全削除//
 --------------------------------------------------
 ## 〇〇sテーブル
 |Column   |Type      |Options    |
@@ -11,8 +11,8 @@
 |user     |references|foreign_key: true, null: false|
 
 ### Association
-- has_many :〇〇s(複数テーブル名)
-- belongs_to :〇〇(単数テーブル名)
+- has_many :〇〇s(テーブル名)
+- belongs_to :〇〇(テーブル名)
 --------------------------------------------------
 -->
 
