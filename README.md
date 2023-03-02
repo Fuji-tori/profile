@@ -4,13 +4,5 @@
 |Column |Type |Options |
 |-------|-----|--------|
 
-<!--
-## sテーブル
-|Column |Type |Options |
-|-------|-----|--------|
-| | | |
-| | | |
-
 ### Association
 -  :
--->
