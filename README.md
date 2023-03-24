@@ -1,6 +1,6 @@
 # README
 
-## (No)テーブル
+## (No)sテーブル
 |Column |Type |Options |
 |-------|-----|--------|
 | | | |
