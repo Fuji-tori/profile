@@ -10,5 +10,5 @@
 
 <!--
 table/(no):Association数
-     / :
+     /
 -->
