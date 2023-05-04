@@ -9,6 +9,6 @@
 -  :(No)
 
 <!--
-table/(no):Association数
+table/(no)s:Association数
      /
 -->
