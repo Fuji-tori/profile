@@ -7,8 +7,10 @@
 
 ### Association
 -  :(No)
-  <!-- has many :()s
-       brong to :() -->
+  <!--
+  has_many :()s
+  belongs_to :()
+  -->
 
 
 <!--
