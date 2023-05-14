@@ -8,11 +8,11 @@
 ### Association
 -  :(No)
   <!--
-  has_many :()s
-  belongs_to :()
+  has_many :(No)s
+  belongs_to :(No)
   -->
 
 
 <!--
-table/(no)s:0
+table/(No)s:0
 -->
