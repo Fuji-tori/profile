@@ -7,6 +7,7 @@
 
 ### Association
 -  :(No)
+
   <!--
   has_many :(No)s
   belongs_to :(No)
