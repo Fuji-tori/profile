@@ -11,5 +11,5 @@
 
 
 <!--
-table/(No)s:(Association数)
+table/(No)s: Association数
 -->
