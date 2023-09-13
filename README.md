@@ -1,13 +1,14 @@
 # README
 
-<!-- ## (No)sテーブル
+<!--
+## (No)sテーブル
 |Column |Type |Options |
 |-------|-----|--------|
 | | | |
 
 ### Association
-
- -  :(No)s -->
+ -  :(No)s
+-->
 
 
 <!--
