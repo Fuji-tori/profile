@@ -12,5 +12,5 @@
 
 <!--
 table/(No)s: Association数
-      (No)s: Association数
+      s: 
 -->
