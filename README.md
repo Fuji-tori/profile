@@ -11,6 +11,6 @@
 
 
 <!--
-table/(No)s: Association数
-      s: 
+(No)s: Association数
+s: 
 -->
