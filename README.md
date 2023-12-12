@@ -11,7 +11,7 @@
 
 
 <!--
-(No)s: Association数
-s: 
-s: 
+(No)s: テーブル内数 --Association先
+s: 0 --
+s: 0 --
 -->
